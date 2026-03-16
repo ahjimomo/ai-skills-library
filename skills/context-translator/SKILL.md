@@ -2,7 +2,7 @@
 name: context-translator
 description: Translate any text or document into English, then explain what it actually means in context — including tone, intent, and cultural nuance.
 category: Writing & Communication
-type: Reusable Instruction
+type: Prompt
 ---
 
 # Context Translator

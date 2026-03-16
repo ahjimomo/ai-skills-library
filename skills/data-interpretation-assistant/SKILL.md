@@ -2,7 +2,7 @@
 name: data-interpretation-assistant
 description: Describe a dataset or report in plain language and get a clear interpretation of what it shows, what it does not show, and what to do next.
 category: Technical Execution
-type: Reusable Instruction
+type: Prompt
 ---
 
 # Data Interpretation Assistant

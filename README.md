@@ -33,6 +33,7 @@ Open the `SKILL.md` file, copy the instruction block under **The Instruction**, 
 | Research Briefing Generator | Inquiry & Research | Prompt | Get a structured briefing on any topic before starting a project — covering what is established, what is contested, open questions, risks, and a short reading list. | [View →](skills/research-briefing-generator/SKILL.md) |
 | Data Interpretation Assistant | Technical Execution | Prompt | Describe a dataset or report in plain language and get a clear breakdown of what it shows, what it cannot tell you, and what questions to bring to your analyst. | [View →](skills/data-interpretation-assistant/SKILL.md) |
 | SOP Builder | Interpersonal & Ops | Workflow | Build a structured, role-assigned standard operating procedure from a process description or reference materials — with gaps flagged and improvements suggested. | [View →](skills/sop-builder/SKILL.md) |
+| Resume & Cover Letter Builder | Writing & Communication | Workflow | Paste a job description and your resume to get a prioritised ATS edit table, a fully rewritten resume, section recommendations, and optional outreach materials — cover letter, application email, or LinkedIn message. | [View →](skills/resume-cover-letter-builder/SKILL.md) |
 
 ### In the Pipeline
 

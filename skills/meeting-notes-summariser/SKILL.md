@@ -2,7 +2,7 @@
 name: meeting-notes-summariser
 description: Turn raw meeting notes or transcripts into a clean summary with clearly labelled action items, decisions, and owners.
 category: Synthesis & Insights
-type: Reusable Instruction
+type: Prompt
 ---
 
 # Meeting Notes Summariser

@@ -2,7 +2,7 @@
 name: project-kickoff-planner
 description: Turn a project brief or rough idea into a structured kickoff plan — covering objectives, scope, roles, milestones, risks, and domain-specific context.
 category: Strategy & Planning
-type: Reusable Instruction
+type: Workflow
 ---
 
 # Project Kickoff Planner
